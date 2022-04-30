@@ -27,6 +27,7 @@ Most of the challenges can be solved in three hours or less.
 - [Day 006](https://github.com/lucaskikkawa/100-days-of-code/tree/main/day-006/src/com/company)
 - [Day 007](https://github.com/lucaskikkawa/100-days-of-code/tree/main/day-007/src/com/company)
 - [Day 008](https://github.com/lucaskikkawa/100-days-of-code/tree/main/day-008/src/com/company)
+- [Day 009](https://github.com/lucaskikkawa/100-days-of-code/tree/main/day-009/src/com/company)
 
 
 ---
